@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 					  combine taps, presses, or swipes in any direction
                        DESC
 
-  s.homepage         = "https://github.com/RxSwiftCommunity/RxGesture"
+  s.homepage         = "https://github.com/powercen/RxGesture.git"
   s.license          = 'MIT'
   s.author           = { "Marin Todorov" => "touch-code-magazine@underplot.com" }
   s.source           = { :git => "https://github.com/RxSwiftCommunity/RxGesture.git", :tag => s.version.to_s }
